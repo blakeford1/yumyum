@@ -1,18 +1,27 @@
 {
-  "name": "burgerapp",
+  "name": "yumyum",
   "version": "1.0.0",
-  "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
+  "description": "Express application that lets you devour burgers repeatedly.",
   "main": "server.js",
-  "scripts": {
-    "test": "test",
-    "start": "node server.js"
-  },
-  "author": "ZachBach",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeford1/yumyum.git"
+  },
+  "author": "blake ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakeford1/yumyum/issues"
+  },
+  "homepage": "https://github.com/blakeford1/yumyum#readme"
 }
