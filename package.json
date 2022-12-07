@@ -4,7 +4,7 @@
   "description": "Express application that lets you devour burgers repeatedly.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^4.0.4",
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
